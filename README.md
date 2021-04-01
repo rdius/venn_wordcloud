@@ -13,7 +13,7 @@ and [wordcloud](https://github.com/amueller/word_cloud) and their dependencies f
 ## Example
 
 ``` python
-from matplotlib_venn_wordcloud import venn2_wordcloud
+from venn_wordcloud import venn2_wordcloud
 
 test_string_1 = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 
