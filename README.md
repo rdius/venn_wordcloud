@@ -1,6 +1,11 @@
-# matplotlib venn wordcloud in python
+# matplotlib venn wordcloud in python inspired by 
 This repo describes how you can custom venn diagram for great illustration
-# matplotlib_venn_wordcloud
+# git clone https://github.com/rdius/venn_wordcloud.git
+# git add *
+# git commit -m "commit message"
+# git push origin main or master
+After editing on github, pull it before any new commit
+# git pull https://github.com/rdius/venn_wordcloud.git 
 
 Plot a Venn diagram based on two sets of words.
 The words are plotted as a word cloud on top.
