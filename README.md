@@ -5,7 +5,7 @@ This repo describes how you can custom venn diagram for great illustration
 Plot a Venn diagram based on two sets of words.
 The words are plotted as a word cloud on top.
 
-![alt tag](./ex1.png)
+![alt tag](./TF-inter_tac_Pp2_simple.jpg)
 
 Depends on [matplotlib-venn](https://github.com/konstantint/matplotlib-venn)
 and [wordcloud](https://github.com/amueller/word_cloud) and their dependencies for the heavy lifting.
