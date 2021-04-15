@@ -9,7 +9,7 @@ git push origin main or master
 git pull https://github.com/rdius/venn_wordcloud.git 
 ```
 
-Plot a Venn diagram based on two sets of words.
+Plot a Venn diagram based on sets of words.
 The words are plotted as a word cloud on top.
 
 ![alt tag](./TF-inter_tac_Pp2_simple.jpg)
